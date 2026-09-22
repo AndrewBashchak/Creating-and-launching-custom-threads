@@ -1,1 +1,1 @@
-# Creating-and-launching-custom-threads
+Andrew Bashchak, student of KDU, group: SEs-24-2
